@@ -16,4 +16,6 @@
 
 ![alt text](https://github.com/vermamukesh67/animationlearning/blob/main/drawtickicon.png?raw=true)
 
+![alt text](https://github.com/vermamukesh67/animationlearning/blob/main/drawdeleteicon.png?raw=true)
+
 ![alt text](https://github.com/vermamukesh67/animationlearning/blob/main/drop.png?raw=true)
