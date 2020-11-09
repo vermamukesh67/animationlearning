@@ -1,4 +1,4 @@
-# animationlearning
+# checkout the below screenshot. note there is animation too for each drawing.
 
 
 ![alt text](https://github.com/vermamukesh67/animationlearning/blob/main/drawmountain.png?raw=true)
